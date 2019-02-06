@@ -24,7 +24,7 @@
     "commonmark": "^0.28.1",
     "commonmark-react-renderer": "^4.3.4",
     "emojilib": "^2.4.0",
-    "react": "^16.6.3",
+    "react": "16.7.0",
     "react-color": "^2.14.1",
     "react-contextmenu": "^2.10.0",
     "react-dom": "^16.6.3",
